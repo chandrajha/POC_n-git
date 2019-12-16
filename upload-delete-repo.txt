@@ -1,0 +1,7 @@
+1.How to upload project on git
+->Go to your project folder location
+  E:\ngPoc-16-12\blogger
+->open cmd in that location
+   type cmd in address bar
+->in cmd type 
+> git init
